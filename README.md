@@ -9,9 +9,8 @@
 Repository for coding newbies.
 ## Feel free to fork and contribute :)
 
-![HF2020 Events 1600x400 Centered](https://user-images.githubusercontent.com/40789486/94894828-c371d980-04a7-11eb-9374-9da9dd1b95b6.png)
 # How to contribute to this project or Open Source ?
-Happy Hacktoberfest! If you are a beginner, and looking for your first contribution. please follow these steps :-
+If you are a beginner, and looking for your first contribution. please follow these steps :-
 ## Note :
 ### Before contributing to this project plese read the ISSUE and then start to contribute for that issue.
 
@@ -55,6 +54,5 @@ git add -u stages modifications and deletions, without new files
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page. 
 #### Done ! you have made a pull request and wait for approved by the maintainers.
 
-# HAPPY Hacktoberfest!
 ![1_Zgzm5Dw86UPNlSLeyUAoyw](https://user-images.githubusercontent.com/40789486/94897225-cfac6580-04ac-11eb-9e58-79d821976848.gif)
 
